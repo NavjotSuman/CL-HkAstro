@@ -776,7 +776,12 @@
 	}
 }
 @media (max-width: 490px){
-	
+	#homeImage{
+		display: flex;
+	}
+	#numberBreak{
+		display:inline;
+	}
 	.hs_number_box_main_wrapper{
 		float:none;
 		width:130px;
