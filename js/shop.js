@@ -92,7 +92,7 @@ document.addEventListener("DOMContentLoaded", function () {
         },
         {
             id: 15,
-            name: "Hamumaan Yantra",
+            name: "Hanuman Yantra",
             image: "hanumanYantra.webp",
             price: " 2100"
         },
