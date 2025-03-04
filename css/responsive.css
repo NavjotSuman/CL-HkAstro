@@ -767,6 +767,12 @@
 	}
 }
 @media (max-width: 653px){
+	#homeImage{
+		display: flex !important;
+		align-items: center;
+		justify-content: center;
+		width: 100%;
+	}
 	
 	.hs_number_box_main_wrapper4, .hs_number_box_main_wrapper7, .hs_number_box_main_wrapper10{
 		margin-left:0;
@@ -776,9 +782,7 @@
 	}
 }
 @media (max-width: 490px){
-	#homeImage{
-		display: flex;
-	}
+
 	#numberBreak{
 		display:inline;
 	}
