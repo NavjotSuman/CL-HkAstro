@@ -706,6 +706,9 @@
 	.popup {
 		left: 16%;
 	}
+	.hide-for-mobile{
+		display: none !important;
+	}
 }
 @media (max-width: 580px){
 	
