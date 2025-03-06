@@ -709,6 +709,9 @@
 	.hide-for-mobile{
 		display: none !important;
 	}
+	.lh-for-mobile{
+		line-height: 1.5;
+	}
 }
 @media (max-width: 580px){
 	
