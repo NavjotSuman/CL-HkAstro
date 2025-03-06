@@ -357,6 +357,10 @@
 	.slider-area .carousel-inner .item .carousel-captions .content {
 		padding-top: 50px !important;
 	}
+	.responsive-row-for-tab{
+		display: flex;
+		flex-direction: column-reverse;
+	}
 }
 @media (max-width: 880px){
 	
@@ -708,6 +712,9 @@
 	}
 	.hide-for-mobile{
 		display: none !important;
+	}
+	.lh-for-mobile{
+		line-height: 1.5;
 	}
 }
 @media (max-width: 580px){
